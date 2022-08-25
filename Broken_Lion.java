@@ -1,4 +1,4 @@
-//Broken Lion
+
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
