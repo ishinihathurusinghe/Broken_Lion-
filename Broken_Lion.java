@@ -3,8 +3,7 @@ import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-/*<applet code="Broken_Lion" width=500 height=500>
-</applet>*/
+
 public class Broken_Lion extends JApplet
 {       private JPanel panel;
         public void init()
